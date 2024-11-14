@@ -1,5 +1,5 @@
 a=[]
-
+y3=int(input("enter y3"))
 c=[]
 b=[]
 n=int(input("Enter the number of elements in vector :"))
